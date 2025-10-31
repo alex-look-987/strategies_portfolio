@@ -1,0 +1,6 @@
+__pycache__/
+
+*.csv
+
+# histórico eurusd m15
+!*historical*.csv
